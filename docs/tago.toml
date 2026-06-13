@@ -1,0 +1,10 @@
+title       = "gopkg"
+baseURL     = "https://pkggodev-cli.tamnd.com/"
+description = "Browse Go packages on pkg.go.dev"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/pkggodev-cli"
